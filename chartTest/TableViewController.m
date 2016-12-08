@@ -27,8 +27,8 @@
     
     [_dataSource addObject:@"饼状图"];
     [_dataSource addObject:@"折线图"];
-    [_dataSource addObject:@"饼状图"];
-    [_dataSource addObject:@"饼状图"];
+    [_dataSource addObject:@"折线图2"];
+    [_dataSource addObject:@"折线图3"];
     [_dataSource addObject:@"饼状图"];
 
     [self.tableView registerClass:[UITableViewCell class] forCellReuseIdentifier:@"cell"];
